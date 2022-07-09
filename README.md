@@ -1,0 +1,2 @@
+# TrydjangoNew
+none
